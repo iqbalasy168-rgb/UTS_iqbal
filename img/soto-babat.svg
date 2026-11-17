@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+<title id="title">Ilustrasi soto babat</title><desc id="desc">Babat empuk dan taburan bawang di dalam mangkuk soto bergaya ilustrasi poster.</desc>
+<rect width="640" height="420" rx="28" fill="#f6ecd9"/>
+<circle cx="510" cy="88" r="60" fill="#f2dfb8"/><circle cx="105" cy="325" r="42" fill="#ead7b8"/>
+<path d="M156 186h328l-35 115a130 130 0 0 1-258 0z" fill="#315b42"/>
+<path d="M178 190h284l-25 85a105 105 0 0 1-234 0z" fill="#dfbd75" stroke="#fffef3" stroke-width="10"/>
+<ellipse cx="320" cy="188" rx="164" ry="58" fill="#fff2cf" stroke="#315b42" stroke-width="11"/>
+<ellipse cx="320" cy="184" rx="146" ry="43" fill="#dfbd75"/>
+<path d="M220 178q35-28 68-3t62-1t68 1" stroke="#fff1d2" stroke-width="10" fill="none" stroke-linecap="round"/>
+<path d="M242 194l30-22 28 24 25-22 36 22" stroke="#9d7041" stroke-width="12" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="192" cy="151.20000000000002" r="13" fill="#557b5a"/><circle cx="220" cy="139.20000000000002" r="9" fill="#557b5a"/>
+<path d="M174 138q20-28 38 0q-18 25-38 0" fill="#6b995f"/>
+<path d="M260 100c-18-18 12-26-2-48M320 100c-18-18 12-26-2-48M380 100c-18-18 12-26-2-48" fill="none" stroke="#cf684e" stroke-width="8" stroke-linecap="round" opacity=".8"/>
+<path d="M135 320q185 72 370 0" fill="none" stroke="#cf684e" stroke-width="10" stroke-linecap="round"/>
+<path d="M495 285l45 28-25 36-45-28z" fill="#e0ae43"/><path d="M514 296l18 11" stroke="#fffef3" stroke-width="7" stroke-linecap="round"/>
+</svg>
